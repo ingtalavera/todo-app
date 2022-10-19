@@ -46,8 +46,8 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### Links
 
-- Solution URL: [Github](https://your-solution-url.com)
-- Live Site URL: [Web](https://your-live-site-url.com)
+- Solution URL: [Github](https://github.com/ingtalavera/todo-app)
+- Live Site URL: [Web](https://ingtalavera.github.io/todo-app/)
 
 ## My process
 
